@@ -13,13 +13,7 @@ Otel Rezervasyonu Projesi, kullanıcıların belirli tarihler arasında otel oda
 ## Kullanılan Teknolojiler
 - **Backend**: C# (.NET Framework)
 - **Veritabanı**: Microsoft SQL Server
-- **ORM**: Entity Framework (Opsiyonel)
+- **ORM**: Entity Framework (
 - **UI**: Windows Forms
 
-## Kurulum
 
-### 1. SQL Server Kurulumu
-Projede kullanılan veritabanını kurmak için aşağıdaki SQL komutlarını kullanarak `OtelRezervasyonu` adlı veritabanını oluşturun.
-
-```sql
-CREATE DATABASE OtelRezervasyonu;
